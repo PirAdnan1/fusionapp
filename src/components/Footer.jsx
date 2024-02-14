@@ -9,7 +9,7 @@ import FooterImage from "@/assets/FooterImage.png";
 
 function Footer() {
   return (
-    <div className="bg-secondary mt-36">
+    <div className="bg-secondary mt-36 px-8">
       <Container>
         <div className="flex flex-col gap-9 md:gap-0 md:flex-row items-center justify-between text-white/90 py-9">
           <Image src={FooterImage} />
