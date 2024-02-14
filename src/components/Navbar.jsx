@@ -89,7 +89,7 @@ export default function Navbar() {
                     Home
                   </Link>
                 </li>
-                <li className="hover:text-primary text-xs text-white/90 font-bold">
+                <li className="hover:text-primary text-xs text-secondary lg:text-white/90 font-bold">
                   <Link
                     href="/Anwaltskanzlei"
                     className={cn("border-bottom-hover pb-2", {
@@ -100,7 +100,7 @@ export default function Navbar() {
                     BackedAI
                   </Link>
                 </li>
-                <li className="hover:text-primary text-xs text-white/90 font-bold">
+                <li className="hover:text-primary text-xs text-secondary lg:text-white/90 font-bold">
                   <Link
                     href="/iNSOLVENZRECHT"
                     className={cn("border-bottom-hover pb-2", {
@@ -111,7 +111,7 @@ export default function Navbar() {
                     Our Story
                   </Link>
                 </li>
-                <li className="hover:text-primary text-xs text-white/90 font-bold">
+                <li className="hover:text-primary text-xs text-secondary lg:text-white/90 font-bold">
                   <Link
                     href="/team"
                     className={cn("border-bottom-hover pb-2", {
@@ -122,7 +122,7 @@ export default function Navbar() {
                     New NFTs
                   </Link>
                 </li>
-                <li className="hover:text-primary text-xs text-white/90 font-bold">
+                <li className="hover:text-primary text-xs text-secondary lg:text-white/90 font-bold">
                   <Link
                     href="/Kontakt"
                     className={cn("border-bottom-hover pb-2", {
@@ -133,7 +133,7 @@ export default function Navbar() {
                     Best Creations
                   </Link>
                 </li>
-                <li className="hover:text-primary text-xs text-white/90 font-bold">
+                <li className="hover:text-primary text-xs text-secondary lg:text-white/90 font-bold">
                   <Link
                     href="/Kontakt"
                     className={cn("border-bottom-hover pb-2", {
